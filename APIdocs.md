@@ -27,3 +27,7 @@ https://cricketapi.platform.iplt20.com//fixtures/32242/commentary/feeds/4?custom
 another url for same
 https://cricketapi.platform.iplt20.com//fixtures/32242/commentary/feeds/4?customer=bcci
 ```
+- to get player bios from all seasaons; change pageSize to get more and loop through pages
+```
+https://api.platform.iplt20.com/content/ipl/bios/EN/?
+```
