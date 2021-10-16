@@ -15,3 +15,4 @@
     - [x] word clouds for 
         - [x] names and 
         - [x] commentary match wise and overall season
+        - [x] player bios from all seasons available from API
