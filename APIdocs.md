@@ -1,9 +1,15 @@
-- to get tornament IDs: can change page size(max 100) to get more in one go, to get more pages change page(starts from 0); basically changes entries in pageInfo
+# APIs used in project
+
+**`general points`**
+- for all APIs that `has` multiple pages tweak these parameters
+    - pageSize (max is 100 in all cases)
+    - page (starts from 0)
+**`API desc`**
+- to get tornament IDs:
 ```
 https://cricketapi.platform.iplt20.com/tournaments
 ```
-
-- to get teams info in a tornament: mainly tour ID changes
+- to get teams info in a tornament: tour id changes
 ```
 https://cricketapi.platform.iplt20.com/teams?teamIds=1&tournamentIds=22399&scope=TOURNAMENT&pageSize=30
 ```
@@ -11,23 +17,24 @@ https://cricketapi.platform.iplt20.com/teams?teamIds=1&tournamentIds=22399&scope
 ```
 https://cricketapi.platform.iplt20.com/stats/players?teamIds=1&tournamentIds=22399&scope=TOURNAMENT&pageSize=30
 ```
-- to get simple player info; add teamid to get info about playes only from that team
+- to get simple player info
+    - add teamid to get info about players from particular team
 ```
 https://cricketapi.platform.iplt20.com/players?tournamentIds=22399&scope=TOURNAMENT&pageSize=30
 ```
-- get scorecard and all kinds of data using matchid; here 32241 is the match id
+- get scorecard and all kinds of data using matchid
+    - here 32241 is the match id
 ```
-https://cricketapi.platform.iplt20.com//fixtures/32241/scoring
-or 
 https://cricketapi.platform.iplt20.com/fixtures/32241/scoring
 ```
-- live commentary by matchID; feeds can be changed from 1(1 to 10 most of the time can stop don't get any response content) to get fragments of the commeantry; as it is in fragments; also this can be get for any math with its ID
+- live commentary by matchID
+    - feeds can be changed from 1(1 to 10 most of the time)
+        -  can stop when don't get any response content
+    - also this can be done for any match with its ID
 ```
 https://cricketapi.platform.iplt20.com//fixtures/32242/commentary/feeds/4?customer=bcci
-another url for same
-https://cricketapi.platform.iplt20.com//fixtures/32242/commentary/feeds/4?customer=bcci
 ```
-- to get player bios from all seasaons; change pageSize to get more and loop through pages
+- to get player bios from all seasaons
 ```
 https://api.platform.iplt20.com/content/ipl/bios/EN/?
 ```
