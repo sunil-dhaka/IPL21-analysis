@@ -11,3 +11,7 @@
     - [x] batting
     - [x] bowling
     - [x] fielding
+- [x] word analysis
+    - [x] word clouds for 
+        - [x] names and 
+        - [x] commentary match wise and overall season
