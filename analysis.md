@@ -1,0 +1,9 @@
+- how many Indian and non-Indian players in total; what is the each team percentage of indian/non-indian; what is percentage/number of non-Indian players country wise(like EN, SA,AU etc.)
+- primary(not secondary as not unique) colors can be used in plot lines/points color
+- analysis of age overall and team wise; with some nice graphics for people to understand
+- batter, bolwer, all-rounder percantage overall
+- player ID , team ID , tournment ID
+- on stats lots of questions can be asked >> very intersting questions
+- how many right/left hand batters or bowlers
+- word alanysis for player names and what not
+- text analysis for commentary data
