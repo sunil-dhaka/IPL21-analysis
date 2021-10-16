@@ -1,0 +1,218 @@
+id,fullName,shortName,nationality,dateOfBirth,rightArmedBowl,rightHandedBat,bowlingStyle,teamID
+1,MS Dhoni,MS Dhoni,Indian,1981-07-07,True,True,MEDIUM_SEAM,1
+7105,Bhagath Varma,B Varma,Indian,1998-09-21,True,True,OFF_SPIN,1
+898,Imran Tahir,I Tahir,South African,1979-03-27,True,True,LEG_SPIN,1
+9474,Harishankar Reddy,H Reddy,Indian,1998-06-02,True,True,FAST_SEAM,1
+5443,Ruturaj Gaikwad,R Gaikwad,Indian,1997-01-31,True,True,OFF_SPIN,1
+1735,Moeen Ali,M Ali,English,1987-06-18,True,False,OFF_SPIN,1
+7111,C Hari Nishaanth,C Hari Nishaanth,Indian,1996-08-16,True,False,OFF_SPIN,1
+9,Ravindra Jadeja,R Jadeja,Indian,1988-12-06,False,False,ORTHODOX,1
+140,Deepak Chahar,D Chahar,Indian,1992-08-07,True,True,MEDIUM_SEAM,1
+4942,Narayan Jagadeesan,N Jagadeesan,Indian,1995-12-24,True,True,,1
+14,Suresh Raina,S Raina,Indian,1986-11-27,True,False,OFF_SPIN,1
+4944,KM Asif,KM Asif,Indian,1993-07-24,True,True,MEDIUM_SEAM,1
+1745,Shardul Thakur,S Thakur,Indian,1991-10-16,True,True,MEDIUM_SEAM,1
+7123,R Sai Kishore,RS Kishore,Indian,1996-11-06,False,False,ORTHODOX,1
+24,Faf du Plessis,F du Plessis,South African,1984-07-13,True,True,LEG_SPIN,1
+25,Dwayne Bravo,DJ Bravo,West Indian,1983-10-07,True,True,MEDIUM_SEAM,1
+857,Josh Hazlewood,J Hazlewood,Australian,1991-01-08,True,False,FAST_SEAM,1
+5145,Dominic Drakes,D Drakes,West Indian,1998-02-06,False,False,MEDIUM_SEAM,1
+156,Cheteshwar Pujara,C Pujara,Indian,1988-01-25,True,True,LEG_SPIN,1
+1118,Karn Sharma,K Sharma,Indian,1987-10-23,True,False,LEG_SPIN,1
+3746,Lungi Ngidi,L Ngidi,South African,1996-03-29,True,True,FAST_SEAM,1
+100,Ambati Rayudu,A Rayudu,Indian,1985-09-23,True,True,OFF_SPIN,1
+1903,Mitchell Santner,M Santner,New Zealander,1992-02-05,False,False,ORTHODOX,1
+3834,Krishnappa Gowtham,K Gowtham,Indian,1988-10-20,True,True,OFF_SPIN,1
+2939,Sam Curran,S Curran,English,1998-06-03,False,False,MEDIUM_SEAM,1
+127,Robin Uthappa,R Uthappa,Indian,1985-11-11,True,True,,1
+1664,Kagiso Rabada,K Rabada,South African,1995-05-25,True,False,FAST_SEAM,3
+964,Marcus Stoinis,M Stoinis,Australian,1989-08-16,True,True,MEDIUM_SEAM,3
+2756,Sam Billings,S Billings,English,1991-06-15,True,True,,3
+1478,Ben Dwarshuis,B Dwarshuis,Australian,1994-06-23,False,False,FAST_SEAM,3
+135,Ajinkya Rahane,A Rahane,Indian,1988-06-06,True,True,MEDIUM_SEAM,3
+967,Chris Woakes,C Woakes,English,1989-03-02,True,True,FAST_SEAM,3
+8,Ravichandran Ashwin,R Ashwin,Indian,1986-09-17,True,True,OFF_SPIN,3
+271,Steve Smith,S Smith,Australian,1989-06-02,True,True,LEG_SPIN,3
+7119,M Siddharth,M Siddharth,Indian,1998-07-03,False,True,ORTHODOX,3
+4305,Vishnu Vinod,V Vinod,Indian,1993-12-02,True,True,,3
+6870,Lalit Yadav,L Yadav,Indian,1997-01-03,True,True,OFF_SPIN,3
+1561,Avesh Khan,A Khan,Indian,1996-12-13,True,True,FAST_SEAM,3
+1113,Axar Patel,A Patel,Indian,1994-01-20,False,False,ORTHODOX,3
+1563,Shreyas Iyer,S Iyer,Indian,1994-12-06,True,True,LEG_SPIN,3
+2972,Rishabh Pant,R Pant,Indian,1997-10-04,False,False,,3
+30,Amit Mishra,A Mishra,Indian,1982-11-24,True,True,LEG_SPIN,3
+38,Ishant Sharma,I Sharma,Indian,1988-09-02,True,True,FAST_SEAM,3
+17191,Ripal Patel,R Patel,Indian,1995-09-28,True,True,FAST_SEAM,3
+41,Shikhar Dhawan,S Dhawan,Indian,1985-12-05,True,False,OFF_SPIN,3
+1705,Shimron Hetmyer,S Hetmyer,West Indian,1996-12-26,False,False,,3
+3188,Pravin Dubey,P Dubey,Indian,1993-07-01,True,True,LEG_SPIN,3
+3764,Prithvi Shaw,P Shaw,Indian,1999-11-09,True,True,OFF_SPIN,3
+5433,Anrich Nortje,A Nortje,South African,1993-11-16,True,True,FAST_SEAM,3
+59,Umesh Yadav,U Yadav,Indian,1987-10-25,True,True,FAST_SEAM,3
+7803,Lukman Meriwala,L Meriwala,Indian,1991-12-11,False,False,FAST_SEAM,3
+3835,Kulwant Khejroliya,K Khejroliya,Indian,1995-03-02,False,False,FAST_SEAM,3
+3646,Tom Curran,T Curran,English,1995-03-12,True,True,FAST_SEAM,3
+5441,Harpreet Brar,H Brar,Indian,1995-09-16,False,False,ORTHODOX,4
+3777,Ishan Porel,I Porel,Indian,1998-09-05,True,True,MEDIUM_SEAM,4
+3841,Utkarsh Singh,U Singh,Indian,1998-05-07,True,True,OFF_SPIN,4
+1667,Aiden Markram,A Markram,South African,1994-10-04,True,True,OFF_SPIN,4
+388,Moises Henriques,M Henriques,Australian,1987-02-01,True,True,MEDIUM_SEAM,4
+3781,Jhye Richardson,J Richardson,Australian,1996-09-20,True,True,FAST_SEAM,4
+72,Mandeep Singh,M Singh,Indian,1991-12-18,True,True,,4
+1299,Chris Jordan,C Jordan,English,1988-10-04,True,True,FAST_SEAM,4
+1556,Deepak Hooda,D Hooda,Indian,1995-04-19,True,True,OFF_SPIN,4
+19351,Ravi Bishnoi,R Bishnoi,Indian,2000-09-05,True,True,LEG_SPIN,4
+4055,Riley Meredith,R Meredith,Australian,1996-06-21,True,True,FAST_SEAM,4
+4698,Arshdeep Singh,A Singh,Indian,1999-02-05,False,False,MEDIUM_SEAM,4
+1564,Sarfaraz Khan,SN Khan,Indian,1997-10-22,True,True,LEG_SPIN,4
+796,Adil Rashid,A Rashid,English,1988-02-17,True,True,LEG_SPIN,4
+158,Mayank Agarwal,M Agarwal,Indian,1991-02-18,True,True,,4
+94,Mohammad Shami,M Shami,Indian,1990-09-03,True,True,FAST_SEAM,4
+17118,Nathan Ellis,N Ellis,Australian,1994-09-22,True,True,MEDIUM_SEAM,4
+4447,Darshan Nalkande,D Nalkande,Indian,1998-10-04,True,True,FAST_SEAM,4
+7779,Shahrukh Khan,S Khan,Indian,1995-05-27,True,True,FAST_SEAM,4
+1125,KL Rahul,KL Rahul,Indian,1992-04-18,True,True,,4
+1703,Nicholas Pooran,N Pooran,West Indian,1995-10-02,False,False,,4
+1707,Fabian Allen,F Allen,West Indian,1995-05-07,False,True,ORTHODOX,4
+236,Chris Gayle,C Gayle,West Indian,1979-09-21,True,False,OFF_SPIN,4
+3187,Murugan Ashwin,M Ashwin,Indian,1990-09-08,True,True,LEG_SPIN,4
+3318,Dawid Malan,D Malan,English,1987-09-03,True,False,LEG_SPIN,4
+5436,Prabhsimran Singh,P Singh,Indian,2000-08-10,True,True,,4
+3836,Saurabh Kumar,S Kumar,Indian,1993-05-01,False,False,ORTHODOX,4
+1087,Jalaj Saxena,J Saxena,Indian,1986-12-15,True,True,OFF_SPIN,4
+3779,Shivam Mavi,S Mavi,Indian,1998-11-26,True,True,FAST_SEAM,5
+1092,Sandeep Warrier,S Warrier,Indian,1991-04-04,True,True,MEDIUM_SEAM,5
+197,Eoin Morgan,E Morgan,English,1986-09-10,True,False,MEDIUM_SEAM,5
+261,Kuldeep Yadav,K Yadav,Indian,1994-12-14,False,False,UNORTHODOX,5
+201,Shakib Al Hasan,S Al Hasan,Bangladeshi,1987-03-24,False,False,ORTHODOX,5
+203,Sunil Narine,S Narine,West Indian,1988-05-26,True,False,OFF_SPIN,5
+14859,Vaibhav Arora,V Arora,Indian,1997-12-14,True,True,FAST_SEAM,5
+3729,Lockie Ferguson,L Ferguson,New Zealander,1991-06-13,True,True,FAST_SEAM,5
+913,Ben Cutting,B Cutting,Australian,1987-01-30,False,True,FAST_SEAM,5
+1619,Tim Seifert,T Seifert,New Zealander,1994-12-14,False,True,,5
+276,Karun Nair,K Nair,Indian,1991-12-06,True,True,OFF_SPIN,5
+1116,Sheldon Jackson,S Jackson,Indian,1986-09-27,False,True,,5
+8540,Venkatesh Iyer,V Iyer,Indian,1994-12-25,True,False,FAST_SEAM,5
+102,Dinesh Karthik,D Karthik,Indian,1985-06-01,True,True,OFF_SPIN,5
+103,Harbhajan Singh,H Singh,Indian,1980-07-03,True,True,OFF_SPIN,5
+488,Pat Cummins,P Cummins,Australian,1993-05-08,True,True,FAST_SEAM,5
+177,Andre Russell,A Russell,West Indian,1988-04-29,True,True,FAST_SEAM,5
+5105,Prasidh Krishna,P Krishna,Indian,1996-02-19,True,True,MEDIUM_SEAM,5
+3761,Shubman Gill,S Gill,Indian,1999-09-08,True,True,OFF_SPIN,5
+2738,Nitish Rana,N Rana,Indian,1993-12-27,True,False,OFF_SPIN,5
+307,Tim Southee,T Southee,New Zealander,1988-12-11,True,True,MEDIUM_SEAM,5
+53,Pawan Negi,P Negi,Indian,1983-01-06,False,False,ORTHODOX,5
+3766,Kamlesh Nagarkoti,K Nagarkoti,Indian,1999-12-28,True,True,MEDIUM_SEAM,5
+5432,Varun Chakaravarthy,V Chakaravarthy,Indian,1991-08-29,True,True,LEG_SPIN,5
+253,Gurkeerat Mann Singh,GM Singh,Indian,1990-06-29,True,True,OFF_SPIN,5
+3838,Rahul Tripathi,R Tripathi,Indian,1991-03-02,True,True,MEDIUM_SEAM,5
+7680,Roosh Kalaria,R Kalaria,Indian,1993-01-16,False,True,MEDIUM_SEAM,6
+834,Quinton de Kock,Q de Kock,South African,1992-12-17,False,False,,6
+10244,Arjun Tendulkar,A Tendulkar,Indian,1999-09-24,False,False,MEDIUM_SEAM,6
+840,Nathan Coulter-Nile,N Coulter-Nile,Australian,1987-10-11,True,True,FAST_SEAM,6
+969,Trent Boult,T Boult,New Zealander,1989-07-22,False,True,FAST_SEAM,6
+971,Jimmy Neesham,J Neesham,New Zealander,1990-09-17,True,False,MEDIUM_SEAM,6
+1740,Jayant Yadav,J Yadav,Indian,1990-01-22,True,True,OFF_SPIN,6
+76,Piyush Chawla,P Chawla,Indian,1988-12-24,True,False,LEG_SPIN,6
+210,Kieron Pollard,K Pollard,West Indian,1987-05-12,True,True,MEDIUM_SEAM,6
+2965,Anmolpreet Singh,A Singh,Indian,1998-03-28,True,True,,6
+4952,Mohsin Khan,M Khan,Indian,1998-07-15,False,False,FAST_SEAM,6
+10842,Yudhvir Charak,Y Charak,Indian,1997-09-13,True,True,FAST_SEAM,6
+2975,Ishan Kishan,I Kishan,Indian,1998-07-18,False,False,,6
+99,Aditya Tare,A Tare,Indian,1987-11-07,True,True,,6
+163,Saurabh Tiwary,S Tiwary,Indian,1989-12-30,True,False,,6
+1124,Jasprit Bumrah,J Bumrah,Indian,1993-12-06,True,True,FAST_SEAM,6
+101,Dhawal Kulkarni,D Kulkarni,Indian,1988-12-10,True,True,MEDIUM_SEAM,6
+10789,Simarjeet Singh,S Singh,Indian,1998-01-17,True,True,FAST_SEAM,6
+107,Rohit Sharma,R Sharma,Indian,1987-04-30,True,True,OFF_SPIN,6
+108,Suryakumar Yadav,S Yadav,Indian,1990-09-14,True,True,,6
+17068,Marco Jansen,M Jansen,South African,2000-05-01,False,True,FAST_SEAM,6
+3183,Krunal Pandya,K Pandya,Indian,1991-03-24,False,False,ORTHODOX,6
+434,Adam Milne,A Milne,New Zealander,1992-04-13,True,True,FAST_SEAM,6
+179,Chris Lynn,C Lynn,Australian,1990-04-10,False,True,,6
+3763,Rahul Chahar,R Chahar,Indian,1999-08-04,True,True,LEG_SPIN,6
+2740,Hardik Pandya,H Pandya,Indian,1993-10-11,True,True,MEDIUM_SEAM,6
+3774,Anukul Roy,A Roy,Indian,1998-11-30,False,False,ORTHODOX,6
+12480,Kuldip Yadav,K Yadav,Indian,1996-10-15,False,True,FAST_SEAM,8
+1154,Ben Stokes,B Stokes,English,1991-06-04,True,False,FAST_SEAM,8
+258,Sanju Samson,S Samson,Indian,1994-11-11,True,True,,8
+836,Chris Morris,C Morris,South African,1987-04-30,True,True,FAST_SEAM,8
+1480,Andrew Tye,A Tye,Australian,1986-12-12,True,True,MEDIUM_SEAM,8
+10059,Kartik Tyagi,K Tyagi,Indian,2000-11-08,True,True,FAST_SEAM,8
+3027,Glenn Phillips,G Phillips,New Zealander,1996-12-06,True,True,,8
+1748,Shreyas Gopal,S Gopal,Indian,1993-09-04,True,True,LEG_SPIN,8
+1749,Rahul Tewatia,R Tewatia,Indian,1993-05-20,True,False,LEG_SPIN,8
+86,Jaydev Unadkat,J Unadkat,Indian,1991-10-18,False,True,MEDIUM_SEAM,8
+4951,Mayank Markande,M Markande,Indian,1997-11-11,True,True,LEG_SPIN,8
+2970,Mahipal Lomror,M Lomror,Indian,1999-11-16,False,False,ORTHODOX,8
+5146,Oshane Thomas,O Thomas,West Indian,1997-02-18,True,False,FAST_SEAM,8
+4445,Riyan Parag,R Parag,Indian,2001-11-10,True,True,LEG_SPIN,8
+13538,Yashasvi Jaiswal,Y Jaiswal,Indian,2001-12-28,False,False,MEDIUM_SEAM,8
+10788,Anuj Rawat,A Rawat,Indian,1999-10-17,True,False,FAST_SEAM,8
+872,Evin Lewis,E Lewis,West Indian,1991-12-27,False,False,,8
+12585,Akash Singh,A Singh,Indian,2002-04-26,False,True,FAST_SEAM,8
+3309,Tabraiz Shamsi,T Shamsi,South African,1990-02-18,False,True,UNORTHODOX,8
+3502,Jofra Archer,J Archer,English,1995-04-01,True,True,FAST_SEAM,8
+11062,Chetan Sakariya,C Sakariya,Indian,1998-02-28,False,False,FAST_SEAM,8
+5431,Shivam Dube,S Dube,Indian,1993-06-26,True,False,MEDIUM_SEAM,8
+2743,KC Cariappa,KC Cariappa,Indian,1994-04-13,True,True,LEG_SPIN,8
+1594,Mustafizur Rahman,M Rahman,Bangladeshi,1995-09-06,False,False,FAST_SEAM,8
+187,David Miller,D Miller,South African,1989-06-10,True,False,OFF_SPIN,8
+3644,Liam Livingstone,L Livingstone,English,1993-08-04,True,True,LEG_SPIN,8
+509,Jos Buttler,J Buttler,English,1990-09-08,True,True,,8
+1085,Manan Vohra,M Vohra,Indian,1993-07-18,False,True,,8
+3840,Mohammed Siraj,M Siraj,Indian,1994-03-13,True,True,MEDIUM_SEAM,9
+1859,Scott Kuggeleijn,S Kuggeleijn,New Zealander,1992-01-03,True,True,FAST_SEAM,9
+3082,Wanindu Hasaranga,W Hasaranga,Sri Lankan,1997-07-29,True,True,LEG_SPIN,9
+3020,Finn Allen,F Allen,New Zealander,1999-04-22,False,True,,9
+1616,Kyle Jamieson,K Jamieson,New Zealander,1994-12-30,True,True,MEDIUM_SEAM,9
+14800,Akash Deep,A Deep,Indian,1996-12-15,True,True,FAST_SEAM,9
+282,Glenn Maxwell,G Maxwell,Australian,1988-10-14,True,True,OFF_SPIN,9
+7002,Suyash Prabhudessai,S Prabhudessai,Indian,1997-12-06,True,True,FAST_SEAM,9
+1115,Sachin Baby,S Baby,Indian,1988-12-18,True,False,,9
+4957,Pavan Deshpande,P Deshpande,Indian,1989-09-16,True,False,OFF_SPIN,9
+2973,Washington Sundar,W Sundar,Indian,1999-10-05,True,False,OFF_SPIN,9
+157,Harshal Patel,H Patel,Indian,1990-11-23,True,True,MEDIUM_SEAM,9
+798,Kane Richardson,K Richardson,Australian,1991-02-12,True,True,FAST_SEAM,9
+5471,Rajat Patidar,R Patidar,Indian,1993-06-01,True,True,OFF_SPIN,9
+164,Virat Kohli,V Kohli,Indian,1988-11-05,True,True,MEDIUM_SEAM,9
+233,AB de Villiers,AB de Villiers,South African,1984-02-17,True,True,MEDIUM_SEAM,9
+4649,Daniel Sams,D Sams,Australian,1992-10-27,False,True,FAST_SEAM,9
+13803,Shahbaz Ahmed,S Ahmed,Indian,1994-12-11,False,False,ORTHODOX,9
+4524,Tim David,T David,Singaporean,1996-03-16,True,True,OFF_SPIN,9
+2734,K.S Bharat,KS Bharat,Indian,1993-10-03,False,True,,9
+111,Yuzvendra Chahal,Y Chahal,Indian,1990-07-23,True,True,LEG_SPIN,9
+3824,Navdeep Saini,N Saini,Indian,1992-11-23,True,True,FAST_SEAM,9
+817,Dushmantha Chameera,D Chameera,Sri Lankan,1992-01-11,False,True,,9
+181,Dan Christian,D Christian,Australian,1983-05-04,True,True,MEDIUM_SEAM,9
+5430,Devdutt Padikkal,D Padikkal,Indian,2000-07-07,True,False,OFF_SPIN,9
+958,Adam Zampa,A Zampa,Australian,1992-03-31,True,True,LEG_SPIN,9
+2942,George Garton,G Garton,English,1997-04-15,False,False,,9
+7743,Mohammed Azharuddeen,M Azharuddeen,Indian,1994-03-22,True,True,FAST_SEAM,9
+2885,Rashid Khan,R Khan,Afghan,1998-09-20,True,True,LEG_SPIN,62
+16,Wriddhiman Saha,W Saha,Indian,1984-10-24,True,True,,62
+2964,Khaleel Ahmed,K Ahmed,Indian,1997-12-05,False,True,MEDIUM_SEAM,62
+5396,Sherfane Rutherford,S Rutherford,West Indian,1998-08-15,True,False,MEDIUM_SEAM,62
+19352,Abdul Samad,A Samad,Indian,2001-10-28,True,True,LEG_SPIN,62
+1112,Sandeep Sharma,S Sharma,Indian,1993-05-18,True,True,MEDIUM_SEAM,62
+4572,Mujeeb Ur Rahman,M Ur Rahman,Afghan,2001-03-28,True,True,OFF_SPIN,62
+95,Shreevats Goswami,S Goswami,Indian,1989-05-18,False,False,,62
+297,Kedar Jadhav,K Jadhav,Indian,1985-03-26,True,True,OFF_SPIN,62
+170,David Warner,D Warner,Australian,1986-10-27,True,False,LEG_SPIN,62
+618,Mohammad Nabi,M Nabi,Afghan,1985-01-01,True,True,OFF_SPIN,62
+3760,Abhishek Sharma,A Sharma,Indian,2000-09-04,False,False,ORTHODOX,62
+3825,Basil Thampi,B Thampi,Indian,1993-09-11,True,True,MEDIUM_SEAM,62
+1906,Jason Roy,J Roy,English,1990-07-21,True,True,,62
+15154,Umran Malik,U Malik,Indian,1999-11-22,True,True,FAST_SEAM,62
+1075,Jason Holder,J Holder,West Indian,1991-11-05,True,True,MEDIUM_SEAM,62
+116,Bhuvneshwar Kumar,B Kumar,Indian,1990-02-05,True,True,MEDIUM_SEAM,62
+2741,Jagadeesha Suchith,J Suchith,Indian,1994-01-16,False,False,ORTHODOX,62
+6966,Virat Singh,V Singh,Indian,1997-12-08,True,False,OFF_SPIN,62
+3831,T Natarajan,T Natarajan,Indian,1991-05-27,False,False,MEDIUM_SEAM,62
+440,Kane Williamson,K Williamson,New Zealander,1990-08-08,True,True,OFF_SPIN,62
+57,Shahbaz Nadeem,S Nadeem,Indian,1989-08-12,False,True,ORTHODOX,62
+506,Jonny Bairstow,J Bairstow,English,1989-09-26,True,True,MEDIUM_SEAM,62
+123,Manish Pandey,M Pandey,Indian,1989-09-10,True,True,MEDIUM_SEAM,62
+1083,Vijay Shankar,V Shankar,Indian,1991-01-26,True,True,MEDIUM_SEAM,62
+1086,Siddarth Kaul,S Kaul,Indian,1990-05-19,True,True,MEDIUM_SEAM,62
+3775,Priyam Garg,P Garg,Indian,2000-11-30,True,True,MEDIUM_SEAM,62
